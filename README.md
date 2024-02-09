@@ -1,5 +1,5 @@
 ## Convert Figam UI Design to FortEnd
-Tool : tailwind / next js 
+Tool : Typescript, Tailwind, Next 
 
 ## Getting Started
 
